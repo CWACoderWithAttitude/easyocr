@@ -1,4 +1,4 @@
-anyio==4.2.0
+anyio==4.14.2
 click==8.1.7
 commonmark==0.9.1
 idna==3.6
